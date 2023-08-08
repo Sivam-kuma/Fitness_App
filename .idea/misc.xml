@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/drawable/botton_border.xml" value="0.1825" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/drawable/gradient_border.xml" value="0.1825" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/drawable/main_botton.xml" value="0.1825" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/drawable/round_corner.xml" value="0.1975" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/drawable/rounded_corner.xml" value="0.1975" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/activity_main.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/backvideo.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/bicepsvideo.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/carbohydrate.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/carbohydratebananaimg.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/carbohydratehonenyimg.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/carbohydratehoneyimg.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/carbohydratepotatoimg.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/carbohydratericeimg.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/chestvideo.xml" value="0.25" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/fat.xml" value="0.25" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/fatchocolateimg.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/fatfishimg.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/fatflaximg.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/fatyogurtimg.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/forearmsvideo.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/fragment1tips.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/fragment2nut.xml" value="0.264" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/fragment3own.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/fragmenthome.xml" value="0.25" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/home.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/image_icon.xml" value="0.264" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/legsvideo.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/mineralelectroliteimg.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/mineralelectrotype.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/mineralmilkimg.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/minerals.xml" value="0.25" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/mineralzincimg.xml" value="0.17008196721311475" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/protein.xml" value="0.25" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/proteineggimg.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/proteingrainsimg.xml" value="0.25" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/proteinimg.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/proteinnutsimg.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/proteinpulseimg.xml" value="0.25" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/proteinvegimg.xml" value="0.25" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/shouldervideo.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/splashscreen.xml" value="0.264" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/tricepsvideo.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/vitaminecimg.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/vitaminedimg.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/vitamineimg.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/vitamines.xml" value="0.25" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/layout/vitaminescimg.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/shiva/Downloads/fitnessapp/app/src/main/res/menu/buttom_navigation_bar.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

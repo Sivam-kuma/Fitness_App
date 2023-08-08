@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.fitnessapp">
+  <uses-permission android:name="android.permission.INTERNET" />
+
+
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+       android:label="@string/app_name"
+    android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FitnessApp"
+        tools:targetApi="31">
+
+        <meta-data
+            android:name="com.google.android.youtube.api.key"
+            android:value="YOUR_YOUTUBE_API_KEY" />
+
+        <activity
+            android:name=".splashscreen"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".HOME"
+            android:exported="false"
+            />
+        <activity
+            android:name="com.example.fitnessapp.protein"
+            android:label="Protein Activity">
+            <!-- Add any other necessary attributes for the activity -->
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.VideoPlayer"
+            android:label="Protein Activity">
+
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.VideoPlayer2"
+            android:label="Protein Activity">
+
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.VideoPlayer3"
+            android:label="Protein Activity">
+
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.VideoPlayer4"
+            android:label="Protein Activity">
+
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.VideoPlayer5"
+            android:label="Protein Activity">
+
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.VideoPlayer6"
+            android:label="Protein Activity">
+
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.VideoPlayer7"
+            android:label="Protein Activity">
+
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.carbohydrate"
+            android:label="Carbohydrate Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.fat"
+            android:label="Fat Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.minerals"
+            android:label="Minerals Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.vitamines"
+            android:label="Vitamines Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.proteinnutsimg"
+            android:label="Proteinnutsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.proteinvegimg"
+            android:label="Proteinvegimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.proteinpulseimg"
+            android:label="Proteinpilseimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.proteingrainsimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.proteineggimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.carbohydratericeimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.carbohydratebananaimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.carbohydratehoneyimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.carbohydratepotatoimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.fatfishimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.fatchocolateimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.fatflaximg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.fatyougertimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.vitamindimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.vitamincimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.vitamineimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.mineralmilkimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.mineralzincimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+        <activity
+            android:name="com.example.fitnessapp.mineralelectroliteimg"
+            android:label="Proteingrainsimg Activity">
+        </activity>
+    </application>
+
+</manifest>
